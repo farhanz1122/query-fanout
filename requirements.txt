@@ -1,1 +1,8 @@
-streamlit
+streamlit==1.55.0  # supports modern stacks
+google-generativeai==0.8.6
+openai==1.29.0
+dspy==3.1.3        # or: dspy-ai==3.1.3 if needed
+requests==2.31.0
+numpy==2.1.3
+python-dotenv==1.0.0
+beautifulsoup4==4.12.3
